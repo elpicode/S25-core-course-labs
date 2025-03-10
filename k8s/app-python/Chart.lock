@@ -1,0 +1,6 @@
+dependencies:
+- name: monitoring
+  repository: file://../monitoring
+  version: 0.1.0
+digest: sha256:ae45888b2be02d74662ee07543f9c5b99f3243178093dab0f1743c93ba096cbd
+generated: "2025-03-10T02:46:07.438748+03:00"
